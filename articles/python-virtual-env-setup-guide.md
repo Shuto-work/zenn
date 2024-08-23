@@ -45,8 +45,8 @@ source myenv/bin/activate
 ![](https://storage.googleapis.com/zenn-user-upload/2bece40266bc-20240823.png)
 ### 3. 必要なライブラリのインストール
 今回の要件は以下。
-・PythonでWebサイトをスクレイピングす流ために、requestsとbeautifulsoup4が必要。
-・取得したデータを、スプレッドシートに保存するために、gspread oauth2clientが必要。
+・PythonでWebサイトをスクレイピングするために、`requests`と`beautifulsoup4`が必要。
+・取得したデータを、スプレッドシートに保存するために、`gspread`と`oauth2client`が必要。
 
 ということで、仮想環境がアクティブな状態で、上記4つのライブラリをインストールします。
 ```bash
