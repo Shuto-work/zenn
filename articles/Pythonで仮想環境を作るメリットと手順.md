@@ -1,8 +1,8 @@
 ---
-title: "Pythonで仮想環境を作るメリットと手順"
+title: "pythonで仮想環境を作るメリットと手順"
 emoji: "🗂"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [Python, 仮想環境, requirements, pip]
+topics: [python, 仮想環境, requirements, pip]
 published: false
 ---
 
