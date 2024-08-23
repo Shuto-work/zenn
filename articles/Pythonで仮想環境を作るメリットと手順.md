@@ -1,5 +1,6 @@
 ---
 title: "pythonで仮想環境を作るメリットと手順"
+slug: "python_myenv_process"
 emoji: "🗂"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [python, 仮想環境, requirements, pip]
