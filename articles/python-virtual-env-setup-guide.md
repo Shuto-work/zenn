@@ -42,7 +42,7 @@ python -m venv myenv
 source myenv/bin/activate
 ```
 アクティブ化すると、コマンドラインのプロンプトに仮想環境の名前が表示されます。
-
+![](https://storage.googleapis.com/zenn-user-upload/2bece40266bc-20240823.png)
 ### 3. 必要なライブラリのインストール
 今回の要件は以下。
 ・PythonでWebサイトをスクレイピングす流ために、requestsとbeautifulsoup4が必要。
