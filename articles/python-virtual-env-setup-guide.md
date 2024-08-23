@@ -1,5 +1,5 @@
 ---
-title: "pythonで仮想環境を作るメリットと手順"
+title: "Pythonで仮想環境を作るメリットと手順"
 slug: "python-myenv-process"
 emoji: "🗂"
 type: "tech" # tech: 技術記事 / idea: アイデア
